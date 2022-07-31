@@ -19,14 +19,11 @@ export default function Home() {
           Neyran Melo portfolio
         </h1>
 
-        <h2 className={styles.Image}>
-          <Image src={perfil} alt="perfil" width={200} height={200} />
-        </h2>
-
-        <p className={styles.description}>
-          Front-end developer{''}
+        <p className={styles.description}>Front-end developer{''}
           <code className={styles.code}>(React, node e next)</code>
-          </p>
+        </p>
+
+        <Image src={perfil} alt="perfil" width={200} height={200} />
 
         <div className={styles.grid}>
           <a href="https://github.com/neyranms" className={styles.card}>

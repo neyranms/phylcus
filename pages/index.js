@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { BsGrid3X3GapFill } from 'react-icons/bs';
-import perfil from 'comps/imgs/perfil.png'
 
 export default function Home() {
   return (
@@ -17,13 +16,21 @@ export default function Home() {
         
         <h1 className={styles.title}>
           Neyran Melo portfolio
+          <a
+          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          Powered by{' '}
+          <span className={styles.logo}>
+            <Image src="/perfil.png" alt="perfil" width={72} height={16} />
+          </span>
+        </a>
         </h1>
 
         <p className={styles.description}>Front-end developer{''}
           <code className={styles.code}>(React, node e next)</code>
         </p>
-
-        <Image src={perfil} alt="perfil" width={200} height={200} />
 
         <div className={styles.grid}>
           <a href="https://github.com/neyranms" className={styles.card}>

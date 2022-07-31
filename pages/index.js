@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import { BsGrid3X3GapFill } from 'react-icons/bs';
 
 export default function Home() {
   return (
@@ -37,7 +38,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Discord &rarr;</h2>
-            <p>email: neyran22@gmail.com
+            <p><button><BsGrid3X3GapFill /></button>;: neyran22@gmail.com
               cel: +55 11 9 8284-6109
             </p>
           </a>

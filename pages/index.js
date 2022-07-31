@@ -14,10 +14,14 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Image src={perfil} alt={perfil} width={72} height={16} />
+        
         <h1 className={styles.title}>
           Neyran Melo portfolio
         </h1>
+
+        <h2 className={styles.Image}>
+          <Image src={perfil} alt="perfil" width={200} height={200} />
+        </h2>
 
         <p className={styles.description}>
           Front-end developer{''}

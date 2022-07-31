@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Frontend developer{''}
+          Front-end developer{''}
           <code className={styles.code}>javascript(node,react e next)</code>
         </p>
 
@@ -38,9 +38,8 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Discord &rarr;</h2>
-            <p><button><BsGrid3X3GapFill /></button>;: neyran22@gmail.com
+              email: neyran22@gmail.com
               cel: +55 11 9 8284-6109
-            </p>
           </a>
 
           <a

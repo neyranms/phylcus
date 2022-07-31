@@ -13,40 +13,42 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Oque você esta fazendo aqui <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">?</a>
+          Neyran Melo socialmedias<a href="https://static-cdn.jtvnw.net/jtv_user_pictures/ea97be0c-5c76-4938-8680-ac6dd21b5d39-profile_image-300x300.png">?</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          since 1989{''}
+          <code className={styles.code}>muito tempo né ?</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://github.com/neyranms" className={styles.card}>
+            <h2>Github &rarr;</h2>
+            <p>Projetos em andamento, concluídos ou travando com erros desconhecidos pela humanidade. </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://www.linkedin.com/in/neyran-melo-766036163/" className={styles.card}>
             <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Contato profissional aberto para novas oportunidades nesse mundo, marte e na lua.</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://discord.gg/xx5XDKkDQg"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Discord &rarr;</h2>
+            <p>email: neyran22@gmail.com
+              cel: +55 11 9 8284-6109
+            </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://linktr.ee/neyranx"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>redes sociais &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              vídeos, fotos, edições e transmissões enviadas em plataformas web.
             </p>
           </a>
         </div>

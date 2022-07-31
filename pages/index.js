@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { BsGrid3X3GapFill } from 'react-icons/bs';
+import perfil from 'comps/imgs/perfil.png'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <Image src={perfil} alt={perfil} width={72} height={16} />
         <h1 className={styles.title}>
           Neyran Melo portfolio
         </h1>
@@ -37,7 +39,7 @@ export default function Home() {
             href="https://discord.gg/xx5XDKkDQg"
             className={styles.card}
           >
-            <h2>Discord &rarr;</h2>
+            <h2>Join in Discord &rarr;</h2>
               email: neyran22@gmail.com
               cel:+55 11 9 8284-6109
           </a>

@@ -38,13 +38,8 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Discord &rarr;</h2>
-              email: neyran22@gmail.com\n
+              email: neyran22@gmail.com  {'\n'}
               cel: +55 11 9 8284-6109
-
-              <textarea id="ta" style="height: 100px">
-              </textarea>
-
-              <div id="dv"></div>
           </a>
 
           <a

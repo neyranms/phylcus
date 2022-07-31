@@ -18,8 +18,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Front-end developer{''}
-        </p>
+          Front-end developer{''}</p>
         <p><code className={styles.code}>javascript(node,react e next)</code></p>
 
         <div className={styles.grid}>

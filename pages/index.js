@@ -31,7 +31,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://github.com/neyranms" className={styles.card}>
             <h2>Github &rarr;</h2>
-            <p>Projetos concluídos, em andamento ou travando com erros desconhecidos pela humanidade. </p>
+            <p>Projetos concluídos, em andamento ou com erros desconhecidos pela humanidade. </p>
           </a>
 
           <a href="https://www.linkedin.com/in/neyran-melo-766036163/" className={styles.card}>

@@ -17,7 +17,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Neyran Melo portfolio
           <a>
-          Powered by{' '}
+          
           <span className={styles.logo}>
             <Image src="/perfil.png" alt="perfil" width={220} height={250} />
           </span>

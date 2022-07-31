@@ -19,7 +19,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Front-end developer{''}
-          <code className={styles.code}>javascript(node,react e next)</code>
+          <code className={styles.code}>js(node,react e next)</code>
         </p>
 
         <div className={styles.grid}>
@@ -46,7 +46,7 @@ export default function Home() {
             href="https://linktr.ee/neyranx"
             className={styles.card}
           >
-            <h2>Socialmedias &rarr;</h2>
+            <h2>Social Media &rarr;</h2>
             <p>
               vídeos, fotos, edições e transmissões enviadas em plataformas web.
             </p>

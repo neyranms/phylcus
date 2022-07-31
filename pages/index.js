@@ -13,23 +13,23 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Neyran Melo portfolio<a href="https://static-cdn.jtvnw.net/jtv_user_pictures/ea97be0c-5c76-4938-8680-ac6dd21b5d39-profile_image-300x300.png">?</a>
+          Neyran Melo portfolio
         </h1>
 
         <p className={styles.description}>
           Frontend developer{''}
-          <code className={styles.code}>js(node,react e next)</code>
+          <code className={styles.code}>javascript(node,react e next)</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://github.com/neyranms" className={styles.card}>
             <h2>Github &rarr;</h2>
-            <p>Projetos em andamento, concluídos com sucesso ou travando com erros desconhecidos pela humanidade. </p>
+            <p>Projetos concluídos, em andamento ou travando com erros desconhecidos pela humanidade. </p>
           </a>
 
           <a href="https://www.linkedin.com/in/neyran-melo-766036163/" className={styles.card}>
             <h2>Linkedin &rarr;</h2>
-            <p>Contato profissional aberto para novas oportunidades nesse Mundo, Marte e na Lua.</p>
+            <p>Contato profissional aberto para novas oportunidades nesse Mundo, Marte e Lua.</p>
           </a>
 
           <a

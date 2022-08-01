@@ -31,12 +31,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://github.com/neyranms" className={styles.card}>
             <h2>Github &rarr;</h2>
-            <p>Projetos concluídos, em andamento ou com erros desconhecidos pela humanidade. </p>
+            <p>Projects completed, in progress or with errors unknown to humanity.</p>
           </a>
 
           <a href="https://www.linkedin.com/in/neyran-melo-766036163/" className={styles.card}>
             <h2>Linkedin &rarr;</h2>
-            <p>Contato profissional aberto para novas oportunidades nesse Mundo, Marte e Lua.</p>
+            <p>Open professional contact for new opportunities in this World, Mars and Moon.</p>
           </a>
 
           <a
@@ -54,7 +54,7 @@ export default function Home() {
           >
             <h2>Social Media &rarr;</h2>
             <p>
-              vídeos, fotos, edições e transmissões enviadas em plataformas web.
+            videos, photos, edits and broadcasts uploaded on web platforms.
             </p>
           </a>
         </div>

@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>Front-end developer{''}
-          <code className={styles.code}>(React, node e next)</code>
+          <code className={styles.code}>Project Manager</code>
         </p>
 
         <div className={styles.grid}>

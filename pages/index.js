@@ -24,7 +24,7 @@ export default function Home() {
         </a>
         </h1>
 
-        <p className={styles.description}>Front-end developer{''}
+        <p className={styles.description}>Fullstack Developer{''}
           <code className={styles.code}>Project Manager</code>
         </p>
 

@@ -34,7 +34,7 @@ export default function Home() {
             <p>Projects completed, in progress or with errors unknown to humanity.</p>
           </a>
 
-          <a href="https://www.linkedin.com/in/neyran-melo-766036163/" className={styles.card}>
+          <a href="www.linkedin.com/in/neyran" className={styles.card}>
             <h2>Linkedin &rarr;</h2>
             <p>Open professional contact for new opportunities in this World, Mars and Moon.</p>
           </a>

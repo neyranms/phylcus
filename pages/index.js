@@ -24,8 +24,8 @@ export default function Home() {
         </a>
         </h1>
 
-        <p className={styles.description}>Fullstack Developer{''}
-          <code className={styles.code}>Project Manager</code>
+        <p className={styles.description}>Product and Project Manager{''}
+          <code className={styles.code}>Product and Project Manager</code>
         </p>
 
         <div className={styles.grid}>

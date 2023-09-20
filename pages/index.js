@@ -24,7 +24,7 @@ export default function Home() {
         </a>
         </h1>
 
-        <p className={styles.description}>Product and Project Manager{''}
+        <p className={styles.description}>Project Manager{''}
           <code className={styles.code}>Product and Project Manager</code>
         </p>
 

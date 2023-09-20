@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>Project Manager{''}
-          <code className={styles.code}>Product and Project Manager</code>
+          <code className={styles.code}>📍São Paulo, SP</code>
         </p>
 
         <div className={styles.grid}>

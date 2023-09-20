@@ -36,7 +36,7 @@ export default function Home() {
 
           <a href="https://www.linkedin.com/in/neyran/" className={styles.card}>
             <h2>Linkedin &rarr;</h2>
-            <p>Open professional contact for new opportunities in this World, Mars and Moon.</p>
+            <p>Can i help you?</p>
           </a>
 
           <a
@@ -49,12 +49,12 @@ export default function Home() {
           </a>
 
           <a
-            href="https://linktr.ee/neyranx"
+            href="https://www.instagram.com/neyran.eth/"
             className={styles.card}
           >
             <h2>Social Media &rarr;</h2>
             <p>
-            videos, photos, edits and broadcasts uploaded on web platforms.
+            @neyran.eth
             </p>
           </a>
         </div>

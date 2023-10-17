@@ -30,7 +30,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://56bits.digital/api/1" className={styles.card}>
-            <h2>Test_2 &rarr;</h2>
+            <h2>Test_3 &rarr;</h2>
             <p>description</p>
           </a>
         </div>

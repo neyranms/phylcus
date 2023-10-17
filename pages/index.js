@@ -19,7 +19,7 @@ export default function Home() {
           <a>
           
           <span className={styles.logo}>
-            <Image src="" alt="perfil" width={220} height={250} />
+            <Image src=" <Image src="https://cdn.icon-icons.com/icons2/1674/PNG/512/plussquare_110959.png" alt="perfil" width={220} height={250} />" alt="perfil" width={220} height={250} />
           </span>
         </a>
         </h1>

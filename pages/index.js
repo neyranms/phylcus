@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Neyran portfolio</title>
-        <meta name="a website about Neyran Melo" content="news soon" />
+        <meta name="Phylcus Website" content="Carbon Credit" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -19,42 +19,41 @@ export default function Home() {
           <a>
           
           <span className={styles.logo}>
-            <Image src="/perfil.png" alt="perfil" width={220} height={250} />
+            <Image src="" alt="perfil" width={220} height={250} />
           </span>
         </a>
         </h1>
 
-        <p className={styles.description}>Project Manager{''}
-          <code className={styles.code}>📍São Paulo, SP - Brasil</code>
+        <p className={styles.description}>Test{''}
+          <code className={styles.code}>Test</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://github.com/neyranms" className={styles.card}>
-            <h2>Github &rarr;</h2>
-            <p>Projects completed, in progress or with errors unknown to humanity.</p>
+          <a href="https://56bits.digital/api/1" className={styles.card}>
+            <h2>Test_1 &rarr;</h2>
+            <p>description</p>
           </a>
 
-          <a href="https://www.linkedin.com/in/neyran/" className={styles.card}>
-            <h2>Linkedin &rarr;</h2>
-            <p>Can i help you?</p>
-          </a>
-
-          <a
-            href="https://discord.gg/xx5XDKkDQg"
-            className={styles.card}
-          >
-            <h2>Join in Discord &rarr;</h2>
-              email: neyran22@gmail.com
-              cel:+55 11 9 8284-6109
+          <a href="https://56bits.digital/api/2" className={styles.card}>
+            <h2>Test_2 &rarr;</h2>
+            <p>description</p>
           </a>
 
           <a
-            href="https://www.instagram.com/neyran.eth/"
+            href="https://56bits.digital/api/3"
             className={styles.card}
           >
-            <h2>Social Media &rarr;</h2>
+            <h2>Test_3 &rarr;</h2>
+            description
+          </a>
+
+          <a
+            href="https://56bits.digital/api/4"
+            className={styles.card}
+          >
+            <h2>Test_4 &rarr;</h2>
             <p>
-            @neyran.eth
+              description
             </p>
           </a>
         </div>
